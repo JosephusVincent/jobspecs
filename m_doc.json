@@ -1,0 +1,68 @@
+{
+   "_id": "a0d019f6955da9e36694c0f782000293",
+   "_rev": "11-c1f1a5d7878558e6f081f13b9744465e",
+   "ad_job_or_title": "PHP Developer",
+   "leads_or_client": "Tony Hayek",
+   "category": "PHP Development",
+   "classification": "IT",
+   "outsourcing_model": "Home Office",
+   "company": "Realestate",
+   "heading": "APPLY NOW!",
+   "status": "ACTIVE",
+   "show_status": "NO",
+   "requirement_must_have": [
+       "PHP - Intermediate"
+   ],
+   "requirement_good_to_have": [
+       "awesome communication skills",
+       "bearable sense of humor",
+       "okay with sharing food"
+   ],
+   "responsibilities": [
+       "Coding to develop websites , tools or systems"
+   ],
+   "job_position": "PHP Developer",
+   "level": "Intermediate",
+   "working_status": "Part-time 4hrs",
+   "working_time_zone": "Australia/Sydney",
+   "working_start_time": "9:00am",
+   "working_end_time": "1:00pm",
+   "required_skills": [
+       "can write codes for 2-3 days straight",
+       "can live by the nutrious components of coffee"
+   ],
+   "required_tasks": [
+       "potential staff must be able to create the perfect system."
+   ],
+   "duties_and_reponsibilities": [
+       "staff must be responsible",
+       "staff must be obedient",
+       "staff must be honest",
+       "staff must be always online on skype"
+   ],
+   "other_desired_attributes": [
+       "staff must be polite",
+       "staff must be punctual",
+       "staff must be nice",
+       "staff must be smart, not globe charot"
+   ],
+   "special_instruction": [
+       "potential staff must be able to follow specific rules and instruction"
+   ],
+   "will_you_provide_training": "Yes",
+   "will_the_staff_make_calls": "No",
+   "is_this_your_first_staff_hire_for_the_job_role": "Yes",
+   "more_info_about_the_job_role": "",
+   "manager_info": [
+       {
+           "name": {
+               "firstname": "Jamaica",
+               "middlename": "Rivera",
+               "lastname": "Angeles"
+           },
+           "email_address": "jamaicaangeles021@gmail.com",
+           "contact_number": "09129876745"
+       }
+   ],
+   "quantity": "1"
+}

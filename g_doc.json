@@ -1,0 +1,33 @@
+{
+   "_id": "edea3838d7a6bbb608b2f90075000d74",
+   "_rev": "20-9b822a48e0c0028660e27b5afad56806",
+   "tracking_code": "8743",
+   "leads": "16767 - Tarquin Hartland (tarquin@echo1.com.au)",
+   "category": "Be a FULL-TIME Customer Support Professional!",
+   "classification": "16767 - Tarquin Hartland (tarquin@echo1.com.au)",
+   "outsourcing_model": "8743",
+   "company": "IT HelpDesk",
+   "heading": "The Company The client offers a wide choice of printing solutions from the very small home printer just for the kids to larger corporate solutions. They operate entirely online, therefore ensuring the best possible price with the best possible service for their offerings.   The Role The ideal team member is an experienced Customer Service Professional with excellent speaking skills and a knack for problem-solving and conflict resolution.",
+   "status": "ACTIVE",
+   "show_status": "YES",
+   "requirements": {
+       "order_tracking": "Intermidiate",
+       "customer_feedback": "Intermediate"
+   },
+   "responsibilities": "Receive calls from clients related to Shipping or product concerns",
+   "history": [
+       {
+           "user": "",
+           "user_type": "",
+           "description_of_changes": "",
+           "date": ""
+       }
+   ],
+   "job_position": "Phone Support Proferssional",
+   "qty": "1",
+   "level": "MID",
+   "working_status": "Full-Time 9hrs w/1hr break",
+   "working_time_zone": "Austrilia/Melourne",
+   "working_start_time": "09:00AM",
+   "working_end_time": "06:00PM"
+}
